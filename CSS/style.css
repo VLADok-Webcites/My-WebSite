@@ -5,4 +5,17 @@ nav{
     background: royalblue;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 35px;
+    text-decoration: none;
+}
+li :hover{
+    background: peru;
+}
+h1{
+    text-align: center;
+}
+iframe{
+    text-align: center;
+}
+footer{
+    background: linear-gradient(pink, darkgrey);
 }

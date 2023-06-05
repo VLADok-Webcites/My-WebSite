@@ -24,7 +24,7 @@ nav{
 }
 h1{
     text-align: center;
-
+    font-family: Space;
 }
 iframe{
     text-align: center;
@@ -74,8 +74,4 @@ footer{
 
 
 
-.cards {
-    position: relative;
-    padding-top: 50%;
-    -moz-user-select: none; user-select: none;
-  }
+
